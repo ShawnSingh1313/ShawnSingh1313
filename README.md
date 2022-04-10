@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin and Android Devlopmnet.
 - 💞️ I’m looking to collaborate on make new apps apps in fun and unique. 
 - 📫 How to reach me at singh.shaurya13@gmail.com
-📖 -
+📖 - 
 • Software QA tester with full system development lifecycle experience, including designing, developing and implementing test plans, test cases and test processes fueling swift corrective actions, significant cost savings and fault-free audits
 • QA experience in Automation Testing and Manual Testing in Web-based Applications, Client / Server, Mainframe, ERP systems, and Web Services
 • Expert on QA Automation Testing using Selenium with Descriptive Programming (DP), Function Library and Framework in VBScript for Functional Testing and Regression Testing 
